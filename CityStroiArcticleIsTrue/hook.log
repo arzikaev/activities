@@ -1,0 +1,1593 @@
+
+------------------------
+2023.04.24 18:20:58
+request
+Array
+(
+    [workflow_id] => 64469df9af0188.17671647
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99813
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 64469df9af0188.17671647|A33475_16270_10623_71791|NhUGD9x5shYbIGkyDfHr9GDdh69Z8qCF.d29c16ac42433121277b4f8fd57a0095ae007d8e6ab31ba41678249c3fbd814e
+    [properties] => Array
+        (
+            [stat] => Оплата бухгалтерии и айти
+            [obj] => 249
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1682349658
+    [auth] => Array
+        (
+            [access_token] => 6aac46640062ad8a0046882c000000490000001ed62bcdfabfd08a89f36c92da7d5cda
+            [expires] => 1682353258
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 5a2b6e640062ad8a0046882c0000004900000097a0d242fd6fd7f477915dbda60d4c77
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.04.24 18:20:59
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 249
+                    [IBLOCK_ID] => 41
+                    [NAME] => Расходы Сити-Строй
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 1
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 07.07.2020 11:43:56
+                    [PROPERTY_189] => Array
+                        (
+                            [2552229] => 193
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2552231] => 14119982.77
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [1071] => Зарплата;
+Прочие расходы;
+Оплата бухгалтерии и айти;
+Налоги;
+К.М.;
+Задолженности прошедших периодов;
+Мостовой;
+Премия;
+Динара;
+Суд Мелечкино;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2534877] => 179
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1682349659.6289
+            [finish] => 1682349659.7806
+            [duration] => 0.15173387527466
+            [processing] => 0.039314031600952
+            [date_start] => 2023-04-24T18:20:59+03:00
+            [date_finish] => 2023-04-24T18:20:59+03:00
+            [operating_reset_at] => 1682350259
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.04.24 19:12:22
+request
+Array
+(
+    [workflow_id] => 6446a9f78284a2.63779833
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99813
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 6446a9f78284a2.63779833|A33475_16270_10623_71791|KBYiwzVRzgEpRkkOH77jRsy7R38dKqCd.0a3f077b88b20cab7b535abd7947ab84ce71a5c080a25f3e96647da312e37fe6
+    [properties] => Array
+        (
+            [stat] => Зарплата
+            [obj] => 249
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1682352742
+    [auth] => Array
+        (
+            [access_token] => 76b846640062ad8a0046882c000000490000001ce170e4f913766c6d609f235d9e71c7
+            [expires] => 1682356342
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 66376e640062ad8a0046882c00000049000000250f597c951a4d98c8d85e5da7522a5b
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.04.24 19:12:23
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 249
+                    [IBLOCK_ID] => 41
+                    [NAME] => Расходы Сити-Строй
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 1
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 07.07.2020 11:43:56
+                    [PROPERTY_189] => Array
+                        (
+                            [2552229] => 193
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2552231] => 14119982.77
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [1071] => Зарплата;
+Прочие расходы;
+Оплата бухгалтерии и айти;
+Налоги;
+К.М.;
+Задолженности прошедших периодов;
+Мостовой;
+Премия;
+Динара;
+Суд Мелечкино;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2534877] => 179
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1682352743.3967
+            [finish] => 1682352743.4934
+            [duration] => 0.096721887588501
+            [processing] => 0.024508953094482
+            [date_start] => 2023-04-24T19:12:23+03:00
+            [date_finish] => 2023-04-24T19:12:23+03:00
+            [operating_reset_at] => 1682353343
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.04.24 19:32:38
+request
+Array
+(
+    [workflow_id] => 6446aed1732748.91656115
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99813
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 6446aed1732748.91656115|A33475_16270_10623_71791|4VekpsT8CWxpZhNH03z57cBe2Pa1OmyF.84642064e4211eca17bc5755ef1fdf9a58d6e22922afdc28b0bdc76d0b0ba2f9
+    [properties] => Array
+        (
+            [stat] =>  Задолженности прошедших периодов
+            [obj] => 249
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1682353958
+    [auth] => Array
+        (
+            [access_token] => 36bd46640062ad8a0046882c00000049000000bd90b2696b34741472ba8dfe9272a4ec
+            [expires] => 1682357558
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 263c6e640062ad8a0046882c00000049000000a1a417e7362ad68396a587c5e9bf626c
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.04.24 19:32:40
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 249
+                    [IBLOCK_ID] => 41
+                    [NAME] => Расходы Сити-Строй
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 1
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 07.07.2020 11:43:56
+                    [PROPERTY_189] => Array
+                        (
+                            [2552229] => 193
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2552231] => 14119982.77
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [1071] => Зарплата;
+Прочие расходы;
+Оплата бухгалтерии и айти;
+Налоги;
+К.М.;
+Задолженности прошедших периодов;
+Мостовой;
+Премия;
+Динара;
+Суд Мелечкино;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2534877] => 179
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1682353959.8344
+            [finish] => 1682353959.9209
+            [duration] => 0.086503028869629
+            [processing] => 0.028854131698608
+            [date_start] => 2023-04-24T19:32:39+03:00
+            [date_finish] => 2023-04-24T19:32:39+03:00
+            [operating_reset_at] => 1682354559
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.04.25 16:22:51
+request
+Array
+(
+    [workflow_id] => 642fb4a55b5c91.77037310
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99133
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 642fb4a55b5c91.77037310|A33475_16270_10623_71791|HDfzpUvv0TZgC17xBuK46n087hut5SyZ.92981e7d9bfc59ec99ca144a9ea0608d6dd3fc78ee6e99bd9ce32bc0aa6d3a34
+    [properties] => Array
+        (
+            [stat] =>  обслуживание площадки
+            [obj] => 73163
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1682428970
+    [auth] => Array
+        (
+            [access_token] => 3be247640062ad8a0046882c00000049000000926f327371a605491f9ec72de3ee4626
+            [expires] => 1682432571
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 2b616f640062ad8a0046882c000000490000006565a4850a2da5c99dd7d2282a6efe4e
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.04.25 16:22:51
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 73163
+                    [IBLOCK_ID] => 41
+                    [NAME] => Сходня (обслуживание площадки)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 08.12.2021 13:11:17
+                    [PROPERTY_189] => Array
+                        (
+                            [2545117] => 27
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2551677] => 855256.97
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [1826743] => обслуживание площадки;
+                        )
+
+                    [PROPERTY_1355] => Array
+                        (
+                            [2529305] => обслуживание площадки;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2529303] => 179
+                        )
+
+                    [PROPERTY_1009] => Array
+                        (
+                            [1826745] => МЛК ООО
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1682428971.6154
+            [finish] => 1682428971.786
+            [duration] => 0.17059516906738
+            [processing] => 0.047003030776978
+            [date_start] => 2023-04-25T16:22:51+03:00
+            [date_finish] => 2023-04-25T16:22:51+03:00
+            [operating_reset_at] => 1682429571
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 13:45:21
+request
+Array
+(
+    [workflow_id] => 643286264b5f50.87549766
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99165
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 643286264b5f50.87549766|A33475_16270_10623_71791|DY6PkC2yM0LtScwSJlCA9Bib4oA9qY7Q.af396acf254510494aeb04ea1a88f5a4e3127b369d5bf77fca2c8508ce6a5c56
+    [properties] => Array
+        (
+            [stat] => Прочие расходы
+            [obj] => 249
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683197121
+    [auth] => Array
+        (
+            [access_token] => d19a53640062ad8a0046882c00000049000000f29dac43eb160283c9ae941d5168c8aa
+            [expires] => 1683200721
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => c1197b640062ad8a0046882c00000049000000b793cb05267c5f2eb4dbe88c4f362f55
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 13:45:22
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 249
+                    [IBLOCK_ID] => 41
+                    [NAME] => Расходы Сити-Строй
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 1
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 07.07.2020 11:43:56
+                    [PROPERTY_189] => Array
+                        (
+                            [2569763] => 196
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2569897] => 14342686.16
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [1071] => Зарплата;
+Прочие расходы;
+Оплата бухгалтерии и айти;
+Налоги;
+К.М.;
+Задолженности прошедших периодов;
+Мостовой;
+Премия;
+Динара;
+Суд Мелечкино;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2534877] => 179
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683197122.1252
+            [finish] => 1683197122.2214
+            [duration] => 0.096214056015015
+            [processing] => 0.041977882385254
+            [date_start] => 2023-05-04T13:45:22+03:00
+            [date_finish] => 2023-05-04T13:45:22+03:00
+            [operating_reset_at] => 1683197722
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 13:56:57
+request
+Array
+(
+    [workflow_id] => 643e7333d6c9a2.32179558
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99611
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 643e7333d6c9a2.32179558|A33475_16270_10623_71791|hVd3eIvzu4iJAkQ7mcvp5kKVrPXmNeV7.bdaa13414823244c204610c7eeb247668f353f93b3de19afccb9c73d334bb878
+    [properties] => Array
+        (
+            [stat] => Перекрытие 570м2
+            [obj] => 96111
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683197817
+    [auth] => Array
+        (
+            [access_token] => 899d53640062ad8a0046882c000000490000006ecfa9a3d3058582cac919d820e3aa7e
+            [expires] => 1683201417
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 791c7b640062ad8a0046882c000000490000008642ddb5f4902b9560a331db3cbdd0ea
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 13:56:57
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 96111
+                    [IBLOCK_ID] => 41
+                    [NAME] => Сходня (перекрытие 570м2)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 07.02.2023 12:59:27
+                    [PROPERTY_189] => Array
+                        (
+                            [2561733] => 13
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2564709] => 1165966.44
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [2461059] => Перекрытие 570м2;
+                        )
+
+                    [PROPERTY_1355] => Array
+                        (
+                            [2529503] => Перекрытие 570м2;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2529499] => 179
+                        )
+
+                    [PROPERTY_1009] => Array
+                        (
+                            [2529501] => МЛК ООО
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683197817.5229
+            [finish] => 1683197817.612
+            [duration] => 0.089095115661621
+            [processing] => 0.04112696647644
+            [date_start] => 2023-05-04T13:56:57+03:00
+            [date_finish] => 2023-05-04T13:56:57+03:00
+            [operating_reset_at] => 1683198417
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 13:59:25
+request
+Array
+(
+    [workflow_id] => 64353937681ca4.42012521
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99245
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 64353937681ca4.42012521|A33475_16270_10623_71791|CaAKspwGjRaYCsPM8HnAlYAKyAjHhtu9.a9e7decb190dc7c22cb16a56d432a2c0c9fb4d8cf654ce726157c03a2dca305d
+    [properties] => Array
+        (
+            [stat] => Перекрытие 570м2
+            [obj] => 96111
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683197965
+    [auth] => Array
+        (
+            [access_token] => 1d9e53640062ad8a0046882c000000490000003d2965da74df55bd8e959619100fba50
+            [expires] => 1683201565
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 0d1d7b640062ad8a0046882c00000049000000480ad528d0259cf65094a611bf8e341e
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 13:59:26
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 96111
+                    [IBLOCK_ID] => 41
+                    [NAME] => Сходня (перекрытие 570м2)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 07.02.2023 12:59:27
+                    [PROPERTY_189] => Array
+                        (
+                            [2561733] => 13
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2564709] => 1165966.44
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [2461059] => Перекрытие 570м2;
+                        )
+
+                    [PROPERTY_1355] => Array
+                        (
+                            [2529503] => Перекрытие 570м2;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2529499] => 179
+                        )
+
+                    [PROPERTY_1009] => Array
+                        (
+                            [2529501] => МЛК ООО
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683197966.2067
+            [finish] => 1683197966.289
+            [duration] => 0.082204818725586
+            [processing] => 0.028779029846191
+            [date_start] => 2023-05-04T13:59:26+03:00
+            [date_finish] => 2023-05-04T13:59:26+03:00
+            [operating_reset_at] => 1683198566
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 14:46:15
+request
+Array
+(
+    [workflow_id] => 6437dc3b7bc7f7.04528569
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99427
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 6437dc3b7bc7f7.04528569|A33475_16270_10623_71791|Yqd0vC2zEmTiB1KTBHDspZypRcmchA2Z.392b533a9ca8d87346873a10463273fef1986601ab3a2fdcfb679fa379ff7111
+    [properties] => Array
+        (
+            [stat] => обслуживание площадки
+            [obj] => 73163
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683200775
+    [auth] => Array
+        (
+            [access_token] => 17a953640062ad8a0046882c00000049000000a2f923755948a4efe95c62aa4d8f86c1
+            [expires] => 1683204375
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 07287b640062ad8a0046882c000000490000000bd0d6e4b24ae0812a730e5eac987be9
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 14:46:16
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 73163
+                    [IBLOCK_ID] => 41
+                    [NAME] => Сходня (обслуживание площадки)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 08.12.2021 13:11:17
+                    [PROPERTY_189] => Array
+                        (
+                            [2566693] => 28
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2570461] => 896856.97
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [1826743] => обслуживание площадки;
+                        )
+
+                    [PROPERTY_1355] => Array
+                        (
+                            [2529305] => обслуживание площадки;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2529303] => 179
+                        )
+
+                    [PROPERTY_1009] => Array
+                        (
+                            [1826745] => МЛК ООО
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683200775.9664
+            [finish] => 1683200776.0456
+            [duration] => 0.079194068908691
+            [processing] => 0.045100927352905
+            [date_start] => 2023-05-04T14:46:15+03:00
+            [date_finish] => 2023-05-04T14:46:16+03:00
+            [operating_reset_at] => 1683201376
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 14:48:05
+request
+Array
+(
+    [workflow_id] => 6437dc3b7bc7f7.04528569
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99427
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 6437dc3b7bc7f7.04528569|A33475_16270_10623_71791|owNoqbGA1dko1u6fYofTS5VwzQoFXsBO.b70119addfed3bb669d85bfb25f2352c837b2e7daa91e90a5a9d4e48306519ad
+    [properties] => Array
+        (
+            [stat] => Устройство сетей
+            [obj] => 86127
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683200885
+    [auth] => Array
+        (
+            [access_token] => 85a953640062ad8a0046882c00000049000000b38f88a3d4ed18a58dd1152c108e5997
+            [expires] => 1683204485
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 75287b640062ad8a0046882c00000049000000d0bbf4afe1dcd3ec0053cd64bbe25b86
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 14:48:05
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 86127
+                    [IBLOCK_ID] => 41
+                    [NAME] => Сходня (ТС,К1,В1,К2 защита)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 02.09.2022 17:03:34
+                    [PROPERTY_189] => Array
+                        (
+                            [2565641] => 39
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2565643] => 2044004.37
+                        )
+
+                    [PROPERTY_167] => Array
+                        (
+                            [2196865] => ДС № 9 к Договору № ГП-11/04 от 11.04.2022 г.
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [2196869] => Устройство сетей;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2196867] => 179
+                        )
+
+                    [PROPERTY_1009] => Array
+                        (
+                            [2196871] => МЛК ООО
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683200885.8705
+            [finish] => 1683200885.9217
+            [duration] => 0.051201105117798
+            [processing] => 0.014240026473999
+            [date_start] => 2023-05-04T14:48:05+03:00
+            [date_finish] => 2023-05-04T14:48:05+03:00
+            [operating_reset_at] => 1683201485
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 14:49:34
+request
+Array
+(
+    [workflow_id] => 6437dc3b7bc7f7.04528569
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99427
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 6437dc3b7bc7f7.04528569|A33475_16270_10623_71791|3LJWCNJpMGmESvmutmWftg7GWCy41YL1.0b323c37c9e53722f237fe4033d9f1719787e231e60bd5be9fbdb77e71b2da2e
+    [properties] => Array
+        (
+            [stat] => Устройство сетей
+            [obj] => 86127
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683200974
+    [auth] => Array
+        (
+            [access_token] => dea953640062ad8a0046882c00000049000000f663a59e74319a6a2c97044e986515f8
+            [expires] => 1683204574
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => ce287b640062ad8a0046882c0000004900000020893791c94181109d422b9f1ac45eb9
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.04 14:49:35
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 86127
+                    [IBLOCK_ID] => 41
+                    [NAME] => Сходня (ТС,К1,В1,К2 защита)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 02.09.2022 17:03:34
+                    [PROPERTY_189] => Array
+                        (
+                            [2565641] => 39
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2565643] => 2044004.37
+                        )
+
+                    [PROPERTY_167] => Array
+                        (
+                            [2196865] => ДС № 9 к Договору № ГП-11/04 от 11.04.2022 г.
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [2196869] => Устройство сетей;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2196867] => 179
+                        )
+
+                    [PROPERTY_1009] => Array
+                        (
+                            [2196871] => МЛК ООО
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683200975.1569
+            [finish] => 1683200975.2075
+            [duration] => 0.050535917282104
+            [processing] => 0.0191490650177
+            [date_start] => 2023-05-04T14:49:35+03:00
+            [date_finish] => 2023-05-04T14:49:35+03:00
+            [operating_reset_at] => 1683201575
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.10 11:08:30
+request
+Array
+(
+    [workflow_id] => 643528c0152c20.27534541
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99215
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 643528c0152c20.27534541|A33475_16270_10623_71791|ymKRTFmxpE1vmS0WSgZigiuiuSYD7lVO.aedb53a59a4f8b3a21d10120c3f5b4f6273ad0cb5f5809165108c778e3bdb23b
+    [properties] => Array
+        (
+            [stat] => Зенитные фонари
+            [obj] => 95307
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683706109
+    [auth] => Array
+        (
+            [access_token] => 0e5f5b640062ad8a0046882c000000490000004eb7b28f0e79421f7aa7b866eccb9440
+            [expires] => 1683709710
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => fedd82640062ad8a0046882c00000049000000e3039f3670f383d076f2dc6629e1df94
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.10 11:08:31
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 95307
+                    [IBLOCK_ID] => 41
+                    [NAME] => Сходня (зенитные фонари)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 25.01.2023 14:43:00
+                    [PROPERTY_185] => Array
+                        (
+                            [2446657] => 2446599
+                        )
+
+                    [PROPERTY_189] => Array
+                        (
+                            [2558727] => 7
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2558729] => 1922284
+                        )
+
+                    [PROPERTY_167] => Array
+                        (
+                            [2446651] => ДС № 20 к Договору № ГП-11/04 от 11.04.2022 г.
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [2446655] => Зенитные фонари;
+                        )
+
+                    [PROPERTY_239] => Array
+                        (
+                            [2446659] => 3403347,25
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2446653] => 179
+                        )
+
+                    [PROPERTY_1009] => Array
+                        (
+                            [2446661] => МЛК ООО
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683706111.7356
+            [finish] => 1683706111.8067
+            [duration] => 0.071084976196289
+            [processing] => 0.0229811668396
+            [date_start] => 2023-05-10T11:08:31+03:00
+            [date_finish] => 2023-05-10T11:08:31+03:00
+            [operating_reset_at] => 1683706711
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.11 17:06:21
+request
+Array
+(
+    [workflow_id] => 644298aad81702.08780589
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99701
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 644298aad81702.08780589|A33475_16270_10623_71791|t0e8ed4qftsdGMmliP2NrqjArvGTxmEZ.5076bd298241341228969cdec246905be4e3e76072fd688abd90e0fa0fe4df91
+    [properties] => Array
+        (
+            [stat] => Земля+фундаменты
+            [obj] => 99629
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683813981
+    [auth] => Array
+        (
+            [access_token] => 6d045d640062ad8a0046882c000000490000000b7f99d31a4f29fd599615de08676151
+            [expires] => 1683817581
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => 5d8384640062ad8a0046882c0000004900000024f4c9f46c561b7e55d166fae0f69c82
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.11 17:06:22
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 99629
+                    [IBLOCK_ID] => 41
+                    [NAME] => Корт (Домодедово)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 18.04.2023 18:10:47
+                    [PROPERTY_185] => Array
+                        (
+                            [2553735] => 38406620
+                        )
+
+                    [PROPERTY_189] => Array
+                        (
+                            [2566029] => 2
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2566031] => 3358668
+                        )
+
+                    [PROPERTY_167] => Array
+                        (
+                            [2553729] => № 12/04-23
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [2553733] => Земля+фундаменты;
+Металл;
+СП;
+Окна и двери;
+ПОС;
+Окраска мк;
+                        )
+
+                    [PROPERTY_239] => Array
+                        (
+                            [2553737] => 49000000
+                        )
+
+                    [PROPERTY_1355] => Array
+                        (
+                            [2553739] => Земля+фундаменты;
+Металл;
+СП;
+Окна и двери;
+ПОС;
+Окраска мк;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2553731] => 179
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683813982.3164
+            [finish] => 1683813982.4334
+            [duration] => 0.11698698997498
+            [processing] => 0.033246994018555
+            [date_start] => 2023-05-11T17:06:22+03:00
+            [date_finish] => 2023-05-11T17:06:22+03:00
+            [operating_reset_at] => 1683814582
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.11 17:08:15
+request
+Array
+(
+    [workflow_id] => 6440fb7aae7b83.04427356
+    [code] => getDays
+    [document_id] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => 99669
+        )
+
+    [document_type] => Array
+        (
+            [0] => lists
+            [1] => BizprocDocument
+            [2] => iblock_29
+        )
+
+    [event_token] => 6440fb7aae7b83.04427356|A33475_16270_10623_71791|d5Gnq7ZLxRmDFfcRE7jnPGQP7xlPg7yh.ee49fbc3f1dffc81a170c51405157213a79aae06ce99ec934913779a7812030b
+    [properties] => Array
+        (
+            [stat] =>  Земля+фундаменты
+            [obj] => 99629
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 600
+    [ts] => 1683814095
+    [auth] => Array
+        (
+            [access_token] => df045d640062ad8a0046882c00000049000000e219bdd9c9ebb1deeb3a6161569484ee
+            [expires] => 1683817695
+            [expires_in] => 3600
+            [scope] => crm,bizproc,lists
+            [domain] => citystroi.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://citystroi.bitrix24.ru/rest/
+            [member_id] => 3d3519227d0d900cc84c875eeb24351a
+            [user_id] => 73
+            [refresh_token] => cf8384640062ad8a0046882c00000049000000bdd55f6983965f49a5885debaaafa19a
+            [application_token] => 7af81757e1758e11320599891e3b7c24
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.05.11 17:08:16
+DEBUG
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 99629
+                    [IBLOCK_ID] => 41
+                    [NAME] => Корт (Домодедово)
+                    [IBLOCK_SECTION_ID] => 
+                    [CREATED_BY] => 15
+                    [BP_PUBLISHED] => Y
+                    [CODE] => 
+                    [DATE_CREATE] => 18.04.2023 18:10:47
+                    [PROPERTY_185] => Array
+                        (
+                            [2553735] => 38406620
+                        )
+
+                    [PROPERTY_189] => Array
+                        (
+                            [2566029] => 2
+                        )
+
+                    [PROPERTY_191] => Array
+                        (
+                            [2566031] => 3358668
+                        )
+
+                    [PROPERTY_167] => Array
+                        (
+                            [2553729] => № 12/04-23
+                        )
+
+                    [PROPERTY_175] => Array
+                        (
+                            [2553733] => Земля+фундаменты;
+Металл;
+СП;
+Окна и двери;
+ПОС;
+Окраска мк;
+                        )
+
+                    [PROPERTY_239] => Array
+                        (
+                            [2553737] => 49000000
+                        )
+
+                    [PROPERTY_1355] => Array
+                        (
+                            [2553739] => Земля+фундаменты;
+Металл;
+СП;
+Окна и двери;
+ПОС;
+Окраска мк;
+                        )
+
+                    [PROPERTY_173] => Array
+                        (
+                            [2553731] => 179
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1683814096.0111
+            [finish] => 1683814096.059
+            [duration] => 0.047914028167725
+            [processing] => 0.015232086181641
+            [date_start] => 2023-05-11T17:08:16+03:00
+            [date_finish] => 2023-05-11T17:08:16+03:00
+            [operating_reset_at] => 1683814696
+            [operating] => 0
+        )
+
+)
+
+------------------------
